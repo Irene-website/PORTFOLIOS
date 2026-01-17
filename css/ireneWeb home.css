@@ -223,13 +223,38 @@ ul li .ppparagraph {
 .profolio.header .profolio.header img {
     height: 100px;
 }
-.slider-controls .prev .macbookcase.botton {
+
+.mobileapp .slider-container.slider1 h3 {
+    margin-bottom: 0px;
+}
+
+.mobileapp .slider-container.slider1 .briefbox {
+    margin-bottom: 45%;
+}
+.mobileapp .briefbox ul {
+    display: inline;
+}
+.slider-controls .prev .mobileapp.botton {
     padding-top: 0px;
     display: inherit;
     margin-top: -50px;
     float: left;
 }
-.slider-controls .next .macbookcase.botton {
+.container .profolio.header .mobileapp {
+    margin: auto;
+    padding: auto;
+    max-height: 100%;
+}
+
+.slider-container.slider1 .mobileapp .slider-controls {
+    overflow-x: visible;
+}
+
+.mobileapp .slider-container.slider1 .slider-controls {
+    margin-top: 45%;
+    padding-top: 10px;
+}
+.slider-controls .next .mobileapp.botton {
     margin-top: -50px;
     float: right;
 }
