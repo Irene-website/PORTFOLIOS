@@ -228,7 +228,7 @@ ul li .ppparagraph {
     height: 100px;
 }
 
-.annual .slider-container.slider1 .briefbox ul {
+.annual .slider-container.slider1 .briefbox ul li {
     display: inline;
     text-align: center;
 }
@@ -237,7 +237,7 @@ ul li .ppparagraph {
     padding: auto;
     height: 100%;
     margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 .annual .slider-container.slider1 h3 {
