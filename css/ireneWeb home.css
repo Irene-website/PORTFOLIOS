@@ -17,6 +17,10 @@
     width: 500px;
     margin-left: 500px;
 }
+
+.container .profolio.header .annual {
+    height: 100%;
+}
 .container .contact.header .contact.info {
     text-align: left;
 }
@@ -222,6 +226,22 @@ ul li .ppparagraph {
 }
 .profolio.header .profolio.header img {
     height: 100px;
+}
+
+.annual .slider-container.slider1 .briefbox {
+    display: inline;
+    text-align: center;
+}
+
+.annual .slider-container.slider1 .slider {
+    padding: auto;
+    height: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.annual .slider-container.slider1 h3 {
+    margin-bottom: 0px;
 }
 
 .mobileapp .slider-container.slider1 h3 {
