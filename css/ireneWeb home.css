@@ -228,16 +228,15 @@ ul li .ppparagraph {
     height: 100px;
 }
 
-.annual .slider-container.slider1 .briefbox ul li {
+.annual .briefbox ul li {
     display: inline;
-    text-align: center;
 }
 
 .annual .slider-container.slider1 .slider {
     padding: auto;
     height: 100%;
     margin-top: 10px;
-    margin-bottom: 25px;
+    margin-bottom: 23px;
 }
 
 .annual .slider-container.slider1 h3 {
